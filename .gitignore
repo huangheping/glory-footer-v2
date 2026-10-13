@@ -1,0 +1,6 @@
+verification/
+*.zip
+*.log
+*.pid
+.DS_Store
+node_modules/

@@ -1,0 +1,1 @@
+window.GLORY_WHATSAPP_URL="https://wa.me/85256273064/";
