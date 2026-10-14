@@ -12,7 +12,7 @@ body{display:flex;flex-direction:column;min-height:100vh;min-height:100svh;margi
 .footerMain_menus__d4M9d .footerMain_inner__90gMQ{display:grid;grid-template-columns:minmax(300px,2fr) repeat(3,minmax(100px,1fr)) 215px;gap:clamp(24px,3vw,60px);min-width:0;max-width:1400px;width:calc(100% - 96px);align-items:start}
 .footerMain_menus__d4M9d .footerMain_menu__6nXa_,.footerMain_menus__d4M9d .footerMain_menu__6nXa_:first-child{width:auto;margin-left:0}
 .footerMain_menus__d4M9d .footerMain_logo__wP_AA{position:static;width:215px;max-width:100%;height:auto;margin-top:7px}
-.footer_btm__2x_Bd{display:flex;align-items:center;justify-content:center;height:32px;padding:0 12px;box-sizing:border-box;border-top:0;font-size:14px;line-height:20px;color:rgba(0,0,0,.45);text-align:center}
+.footer_btm__2x_Bd{display:flex;align-items:center;justify-content:center;height:56px;padding:0 12px;box-sizing:border-box;border-top:0;font-size:14px;line-height:20px;color:rgba(0,0,0,.45);text-align:center}
 @media(max-width:960px) and (min-width:577px){
  .footerMain_menus__d4M9d .footerMain_inner__90gMQ{grid-template-columns:minmax(260px,2fr) repeat(3,minmax(90px,1fr));gap:24px;width:calc(100% - 64px)}
  .footerMain_inner__90gMQ>a{grid-column:1/-1;justify-self:end}
